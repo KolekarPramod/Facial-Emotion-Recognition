@@ -1,4 +1,5 @@
-# **DeepFER: Facial Emotion Recognition Using Deep Learning**
+<h1 align="center">DeepFER: Facial Emotion Recognition Using Deep Learning</h1>
+<h3 align="center"> AlmaBetter Verified Project - <a href="https://www.almabetter.com/"> AlmaBetter </a> </h5>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -77,8 +78,8 @@ While the transfer learning approach improved top-5 accuracy significantly, furt
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/DeepFER.git
-   cd DeepFER
+   git clone https://github.com/KolekarPramod/Facial-Emotion-Recognition.git
+   cd Facial-Emotion-Recognition
    ```
 
 2. **Install dependencies:**
@@ -89,11 +90,15 @@ While the transfer learning approach improved top-5 accuracy significantly, furt
 3. **Run the application:**
    For local development, use the following command:
    ```bash
-   python app.py
+   python realtime.py
    ```
 
 4. **Real-time Emotion Recognition**:
    The model can process live video feeds or images and classify the emotions from the faces in real-time.
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+   
 
 ## **Contributing**
 Contributions are welcome! If you'd like to enhance this project, feel free to fork the repository and create a pull request.
