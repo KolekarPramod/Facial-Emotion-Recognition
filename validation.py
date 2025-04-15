@@ -5,7 +5,7 @@ model = YOLO("yolo11s.pt")  # load an official model
 model = YOLO("yolo11s_emotion.pt")  # load a custom model
 
 # Validate the model
-metrics = model.val(data ="./dataset/images")  # no arguments needed, dataset and settings remembered
+metrics = model.val(data ="./dataset/images")  
 metrics.box.map  # map50-95
 metrics.box.map50  # map50
 metrics.box.map75  # map75
