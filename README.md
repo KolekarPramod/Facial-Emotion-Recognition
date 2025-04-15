@@ -1,4 +1,5 @@
-# **DeepFER: Facial Emotion Recognition Using Deep Learning**
+<h1 align="center">DeepFER: Facial Emotion Recognition Using Deep Learning</h1>
+<h3 align="center"> AlmaBetter Verified Project - <a href="https://www.almabetter.com/"> AlmaBetter </a> </h5>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
