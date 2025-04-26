@@ -65,8 +65,8 @@ To further improve the model's performance, I employed **Transfer Learning** usi
 
 ### **Model Performance (Transfer Learning with YOLO):**
 
-- **Top-1 Accuracy**: 56%
-- **Top-5 Accuracy**: 98.6%
+- **Top-1 Accuracy**: 68%
+- **Top-5 Accuracy**: 92%
 
 While the transfer learning approach improved top-5 accuracy significantly, further refinements in the model are still being explored to achieve higher top-1 accuracy.
 
